@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+	
+	Git stores all its metadata for the project files. It is needed in order
+	to use git.
+	
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	
+	In the staging area we will put the files for the next commit. It is a middle step
+	before the commit, but it also offers ore control in what files we will commit.
